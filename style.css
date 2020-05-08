@@ -1,0 +1,185 @@
+.header
+{
+    background-color: blue; width: 100%; height: 40px;
+}
+.header>ul
+{margin-left:  display: inline-block;}
+
+.header>ul>li
+{
+    list-style: none; display: inline-block; margin: 5px 5px ;
+}
+
+.header>ul>li>a
+{
+    color: white;
+}
+.row
+{background-color:blue;}
+
+.button
+{
+
+    background-color: white; border-radius: 0px;
+}
+
+.navbar-brand>img
+
+{ margin-left: 60px; 
+  margin-right: 400px;}
+
+
+.navbar-nav
+
+{float: right;}
+
+.mar
+{
+    background-color: blue;
+    margin-left: 70px;
+    margin-right: 70px;
+    color: white;
+    height: 20px;
+}
+
+h1
+{
+    color: blue;
+    text-align: center;
+  
+  }
+.introduction>img
+{
+margin-left: 650px;
+height: 50px; width: 50px;
+}
+.introduction
+{
+  background-color: whitesmoke;
+}
+.introduction>p
+
+{
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 30px;
+  text-align: justify;
+  
+}
+
+
+.row1
+
+{height: 150px;
+
+background-color: blue;}
+
+
+.doing
+{
+    background-color: whitesmoke;
+}
+
+.main
+{
+    background-color:whitesmoke;
+    width: 100%;
+    height: 300px;
+    float: left;
+    margin-left: ;
+    }
+
+ .main1
+ {
+     float: left;
+     margin: 30px;
+     padding: 40px;
+     border: 1px;
+     background-color: white;
+     margin-left: 250px;
+     height: 100px;
+     width: 150px;
+     
+ }   
+.main2
+{float: left;
+margin: 30px;
+padding: 40px;
+border: 1px;
+background-color: white;
+height: 100px;
+     width: 150px;
+}
+
+.main3
+
+{float: left;
+margin: 30px;
+padding: 40px;
+border: 1px;
+background-color: white;
+height: 100px;
+     width: 150px;}
+
+.main4
+
+     {float: left;
+     margin: 30px;
+     padding: 40px;
+     border: 1px;
+     background-color: white;
+     height: 100px;
+          width: 150px;}
+
+.main5
+
+          {float: left;
+          margin: 30px;
+          padding: 40px;
+          border: 1px;
+          background-color: white;
+          height: 100px;
+               width: 150px;}
+.main1>img
+
+{height: 100px;
+    width: 150px;}
+.main2>img
+
+    {height: 100px;
+        width: 150px;}
+
+.main3>img
+
+        {height: 100px;
+            width: 150px;}
+        
+.main4>img
+
+            {height: 100px;
+                width: 150px;}
+            
+.main5>img
+
+                {height: 100px;
+                    width: 150px;}
+                
+    
+
+
+.img>img
+     {
+      margin-left: 650px;
+      height: 50px; width: 50px;
+     }     
+
+
+ .footer
+ { background-color: black;
+height: 500px;}
+ .footer>ul>li 
+ {color: white;}   
+
+.footer2
+{background-color: blue; margin: 0px; padding: 0px;
+color: white;}
